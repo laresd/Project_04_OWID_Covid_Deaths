@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [Summary](2022-11-21_Project_04_OWID_Covid_Deaths.md#Summary)
-- [Part 1: Data Exploration](2022-11-21_Project_04_OWID_Covid_Deaths.md#Part%201%20Data%20Exploration)
-- [Part 2: Data Visualization](2022-11-21_Project_04_OWID_Covid_Deaths.md#Part%202%20Data%20Visualization)
-- [References](2022-11-21_Project_04_OWID_Covid_Deaths.md#References)
-- [Screenshot](2022-11-21_Project_04_OWID_Covid_Deaths.md#Screenshot)
+- [Summary](README.md#summary)
+- [Part 1: Data Exploration](README.md#part-1-data-exploration)
+- [Part 2: Data Visualization](README.md#part-2-data-visualization)
+- [References](README.md#references)
+- [Screenshot](README.md#screenshot)
 
 ## Summary
 
