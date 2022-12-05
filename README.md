@@ -10,7 +10,7 @@
 
 ## Summary
 
-In this project, I'll be working with the [Coronavirus (COVID-19) Deaths dataset](https://ourworldindata.org/covid-deaths) from Our World In Data, which contains data on the number of confirmed deaths from COVID-19 worldwide.
+In this project, I'll be working with the [Coronavirus (COVID-19) Deaths dataset](https://ourworldindata.org/covid-deaths) from Our World In Data (OWID), which contains data on the number of confirmed deaths from COVID-19 worldwide.
 
 This project is divided into two parts. In the first part, I'll do some data exploration using Excel and SQL in **Microsoft SQL Server Management Studio (SSMS)**, and in the second part, I'll then visualize the data in **Tableau Public** by creating a dashboard.
 
